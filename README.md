@@ -1,6 +1,6 @@
 # AzureDevOpsCloneWars
 Simple PowerShell script for cloning and pulling all Git repositories in an Azure DevOps organisation.
-It's built upon the [basic script](https://blog.rsuter.com/script-to-clone-all-git-repositories-from-your-vsts-collection/) @RicoSuter has blogged years ago.
+It's built upon the [basic script](https://blog.rsuter.com/script-to-clone-all-git-repositories-from-your-vsts-collection/) [@RicoSuter](https://github.com/RicoSuter) has blogged years ago.
 
 ## Dependencies
 The script relies on `PSWriteColor` module for easy colour-formatting of outputs.
